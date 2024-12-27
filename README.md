@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered when using the Firebase SDK: unexpected data structures or invalid data types causing runtime errors.  The `firebaseBug.js` file showcases the problem, while `firebaseBugSolution.js` provides a solution using robust error handling and data type validation.
